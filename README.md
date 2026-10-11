@@ -3,14 +3,15 @@
 ## Project Overview
 This project explores customer churn in a telecommunications dataset using Python and data analysis techniques.
 
-The goal is to identify customer groups with higher churn rates and suggest possible retention strategies.
+The objective is to identify customer groups with higher churn rates and recommend possible customer-retention strategies.
 
-## Tools & Technologies
+## Tools and Technologies
 - Python
 - Pandas
-- Data Cleaning
+- NumPy
+- Matplotlib
+- Seaborn
 - Exploratory Data Analysis (EDA)
-- Data Visualization
 
 ## Key Findings
 - Overall customer churn rate: 26.54%
@@ -22,17 +23,23 @@ The goal is to identify customer groups with higher churn rates and suggest poss
 ## Recommendations
 - Investigate retention strategies for month-to-month customers.
 - Improve onboarding and support for new customers.
-- Investigate payment-related issues and the fiber optic customer experience.
+- Investigate payment-related issues.
+- Examine the fiber optic customer experience.
 
 ## Project Files
-- `TCA.ipynb` — Python analysis notebook
-- `Customer_Churn_Analysis_Report_Final.pdf` — Analysis report
+- `TCA.ipynb` — Python analysis notebook.
+- `Customer_Churn_Analysis_Report_Final.pdf` — Detailed analysis report.
 
 ## Dataset
-Source: Kaggle Telco Customer Churn dataset
-https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+Source: Kaggle — Telco Customer Churn.
+
+Dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+Download the dataset and place the CSV file in the same folder as the notebook before running the analysis.
 
 ## Author
-Payal Patil
-Aspiring Data Analyst# customer-churn-analysis
-Exploratory Data Analysis of customer churn using Python, Pandas, and data visualization.
+**Payal Patil**
+
+Aspiring Data Analyst | B.Com Graduate
+
+Skills: Python, SQL, Excel, and Power BI
